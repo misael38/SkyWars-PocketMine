@@ -3,9 +3,9 @@ author: svile
 description: SkyWars plugin
 main: svile\sw\SWmain
 version: 0.7dev
-api: [3.0.0-ALPHA4]
+api: [3.5.1]
 load: STARTUP
 
 commands:
  sw:
-  description: SkyWars main command
+  description: SkyWars Command for PMMP Server
